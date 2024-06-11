@@ -1,2 +1,2 @@
 # my_first_program
-2 small projects added together
+A calculator and a guess a number game put together in a small program.
